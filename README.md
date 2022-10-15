@@ -1,4 +1,4 @@
-### Hello. I'm Dmitry, 
+### Hello. I'm Dmitry.
 #### Computer engineer, web-programmer and rocker 🤘🎸
 #### Technology stack: Python, Django, SQL, PHP, JavaScript, jQuery, HTML, CSS, C#
 #### Contact me on Telegram [@toycru](https://t.me/toycru) or email.
